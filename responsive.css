@@ -1,0 +1,27 @@
+@media screen and (max-width:767px) {
+    ._hero_img {
+        display: none;
+    }
+    ._hero_title {
+        gap: 25px;
+        width: 90%;
+    }
+    ._carrito {
+        width: 100%;
+    }
+    ._carrito_container_products_product {
+        justify-content: space-between;
+    }
+    .modalAdd1,
+    .modalAdd2 {
+        font-size: 15px;
+    }
+    ._categorias {
+        padding: 10px;
+    }
+    ._results_container {
+        padding: 20px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width: 1023px) {}
